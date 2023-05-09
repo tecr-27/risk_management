@@ -1,4 +1,4 @@
-# risk_management workgroup to the university
+# risk_management workgroup uni
 
 Aproach: 
 Collect SP500 daily close prices during one year, use that data to forecast future volatility and asset returns using MLE.
