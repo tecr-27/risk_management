@@ -1,7 +1,7 @@
 # risk_management workgroup to the university
 
 Aproach: 
-Collect SP500 daily close returns during one year, use that data to forecast future volatility and asset returns using MLE.
+Collect SP500 daily close prices during one year, use that data to forecast future volatility and asset returns using MLE.
 With that and using some paramters given by the task sheet, we developed a BSM formula and MC simulations to estimate a fair value to the option and compared the results.  Plots are in the appendix of the main notebook,
 
 Code structure:
